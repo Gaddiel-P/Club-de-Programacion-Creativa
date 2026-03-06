@@ -1,11 +1,4 @@
 # +----------------------------------------------------------------------------+
-# | CARDUI TECH v1.0.0
-# +----------------------------------------------------------------------------+
-# | Copyright (c) 2026 - 2026, CARDUITECH.COM (www.carduitech.com)
-# | Gaddiel Pedroza <pedrozagaddiel57@gmail.com>
-# | Released under the MIT license
-# | www.carduitech.com/license/
-# +----------------------------------------------------------------------------+
 # | Author.......: Gaddiel Pedroza <pedrozagaddiel57@gmail.com>
 # | First release: March 4th, 2026
 # | Last update..: March 4th, 2026
